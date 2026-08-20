@@ -1,5 +1,8 @@
-# Object Show Sim
+# Object Show Sim ALPHA 2
 Text-based object show simulator coded in Ruby
+
+## Changelog
+ALPHA 2 changelog is in both English and Spanish, see here: [CHANGELOG](CHANGELOG.md)
 
 ## Description
 This is a prototype CLI/Terminal, text-based object show simulator based on Ruby, it will remain built this way until it reaches its BETA stage, which is when the entire project will be redone as an HTML/CSS/JavaScript project. This simulator offers an extremely simple and unpolished demonstration of what it's supposed to be: You can create up to 50 contestants and have them compete in an object show, as of now, this simulator has basic logic and its results are entirely random.
